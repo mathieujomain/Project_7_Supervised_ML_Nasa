@@ -2,14 +2,14 @@
 
 # Project 7 - Machine/Supervised learning - 
 
-*Ferdi,Edgar*
-*[DA, Paris & 06/22]*
+*Mathieu*
+*[DA, Paris & 07/03]*
 
 ## Description 
 
 In Module 3 we started with a new topic: machine learning. The first week focused on supervised learning models and using these to predict and classify given data correctly. The challenge in this weeks project was to use data about different comets, created by NASA, including ultiple measurement details such as velocity, mean radius, perimeter etc. and create a supervised learning Model that can determine if a comet should be seen as a danger to earth (going to breach the atmosphere and hit earths surface) or not.
 
-We begn by cleaning and preping the data to be ready for model firring and application. We dealt with missing values, performed exploratory data analysis, checked for outliers, and encoded if necessary. Next step on te way was feature selection. Using multiple tests such as RFE, SFM etc. (for details see slides) we selected different features being categorized as most important to have the opportunity of testing multiple feature combinations and seeing which will give us the best results from the models. The last step before stating with testing different models we went through the hyper parameter tuning process to see which parameters for the different models will give us the best results.
+We begin by cleaning and preping the data to be ready for model firring and application. We dealt with missing values, performed exploratory data analysis, checked for outliers, and encoded if necessary. Next step on te way was feature selection. Using multiple tests such as RFE, SFM etc. (for details see slides) we selected different features being categorized as most important to have the opportunity of testing multiple feature combinations and seeing which will give us the best results from the models. The last step before stating with testing different models we went through the hyper parameter tuning process to see which parameters for the different models will give us the best results.
 
 With all of the necessary information and our cleaned, prepared data we thenn applied following eight supervised learning models.
 - Logistic regression (https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
@@ -28,11 +28,11 @@ To recieve the best possible outcome of our model (also regarding the precious b
 ## Plan
 - Create Trello workflow visualization 
 - Create repo on GitHub
-- Data cleaning and preparation in spider
+- Data cleaning and preparation
 - EDA and encoding of data
 - Feature selection
 - Hyper parameter tuning
-- Application of our eight models
+- Application of models
 - Experimenting with different sampling methods to recieve best possible result
 - Prepare presentation
 
@@ -40,13 +40,13 @@ To recieve the best possible outcome of our model (also regarding the precious b
 
 - Original data in csv format
 - Cleaning code
-- Clean data in cvv format
+- Clean data in csv format
 - Slides for presentation
 
 ## Links to deliverables and additional links
 
-[Repository](https://github.com/ferdi-leube/Descriptive-predictive-analysis-and-visualization-in-Tableau)  
-[Trello] (https://trello.com/invite/b/fNTXRiYd/6d314e350060dc69a32ae1f08b933629/prj7)
+[Repository](https://github.com/mathieujomain/Project_7_Supervised_ML)  
+[Trello] ()
 
 
 
