@@ -1,6 +1,6 @@
 <img src="https://bit.ly/2VnXWr2" alt="Ironhack Logo" width="100"/>
 
-# Project 7 - Machine/Supervised learning - 
+# Project 7 - Supervised Machine learning - 
 
 *Mathieu*
 *[DA, Paris & 07/03]*
